@@ -14,7 +14,7 @@
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zellypish.dev/)](https://zellypish.dev/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jc-k-95608a1bb/)](https://www.linkedin.com/in/jc-k-95608a1bb/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jongchan-kim-95608a1bb/)](https://www.linkedin.com/in/jongchan-kim-95608a1bb/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_jvd3d/)](https://www.instagram.com/_jvd3d/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehxhfl21@gmail.com)](mailto:ehxhfl21@gmail.com)
 </div>
