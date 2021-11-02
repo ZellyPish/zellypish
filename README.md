@@ -9,7 +9,7 @@
 ### Interest
 - JavaScript(ES6+)
 - React
-- JAMStack(Gatsby)
+- Swift (iOS)
 
 <div align=center>
 
