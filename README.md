@@ -4,11 +4,13 @@
 
 </div>
 
-### Front-End Web Developer
+# Front-End Web Developer
+>공부를 열심히 하자.
 
-### Skills
+## Skills
 - JavaScript ES6+ (TypeScript)
 - React
+- Next.js
 - Node.js
 
 <div align=center>
