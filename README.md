@@ -7,11 +7,9 @@
 ### Front-End Web Developer
 
 ### Skills
-- JavaScript(ES6+)
+- JavaScript ES6+ (TypeScript)
 - React
 - Node.js
-- Express.js
-- Swift (iOS)
 
 <div align=center>
 
