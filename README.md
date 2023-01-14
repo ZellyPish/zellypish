@@ -5,7 +5,7 @@
 </div>
 
 # Front-End Web Developer
->공부를 열심히 하자.
+>공부를 열심히 하자. 공부의 힘을 믿는 잡학 개발자
 
 ## Skills
 - JavaScript ES6+ (TypeScript)
