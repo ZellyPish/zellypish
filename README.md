@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=Express.js&logoColor=white" />
 </div>
 
 <div align=center>
