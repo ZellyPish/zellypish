@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=A7C6ED&height=300&section=header&text=Hi,%20I'm%20JONGCHAN!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A7C6ED&height=300&section=header&text=Hi,%20I'm%20JONGCHAN!&fontSize=65)
 
 
 # Front-End Web Developer
