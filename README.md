@@ -25,7 +25,6 @@
 <br/>
   
 ### Contact
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@jadedcandy)](https://velog.io/@jadedcandy) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kick._.bell)](https://www.instagram.com/kick._.bell) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehxhfl21@gmail.com)](mailto:kickbelldev@gmail.com)
   
