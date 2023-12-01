@@ -29,6 +29,7 @@
 ### Contact
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kick._.bell)](https://www.instagram.com/kick._.bell) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ehxhfl21@gmail.com)](mailto:kickbelldev@gmail.com)
-[![Hashnode Badge](https://img.shields.io/badge-Hashnode-2962ff?style=flat-square&logo=Hashnode&logoColor=white&link=https://kickbell.hashnode.dev)](https://kickbell.hashnode.dev)
+[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-2962ff?style=flat-square&logo=Hashnode&logoColor=white&link=https://kickbell.hashnode.dev)](https://kickbell.hashnode.dev)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkickbelldev&count_bg=%235F74D9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
