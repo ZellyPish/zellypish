@@ -16,7 +16,15 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/neo4j-4581C3?style=flat&logo=neo4j&logoColor=white" />
+<br/>
+<br/>
 </div>
+
+### Contributions
+
+- [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)
+  - (PR)[BaekjoonHub/BaekjoonHub#230](https://github.com/BaekjoonHub/BaekjoonHub/pull/230)
+    - hotfix: 프로그래머스 문제 타이틀 HTML 구조 변화 대응
 
 <div align=left>
 
