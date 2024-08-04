@@ -31,6 +31,8 @@
 
 <br/>
 <br/>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ehxhfl21)](https://solved.ac/ehxhfl21)
 <br/>
 <br/>
 <br/>
