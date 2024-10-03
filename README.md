@@ -23,9 +23,10 @@
 
 ### Contributions
 
+- [Tanstack/query](https://github.com/TanStack/query)
+  - (PR)[Tanstack/query#8103](https://github.com/TanStack/query/pull/8103)
 - [BaekjoonHub/BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)
   - (PR)[BaekjoonHub/BaekjoonHub#230](https://github.com/BaekjoonHub/BaekjoonHub/pull/230)
-    - hotfix: 프로그래머스 문제 타이틀 HTML 구조 변화 대응
 
 <div align=left>
 
